@@ -1,6 +1,6 @@
 <p><img src="https://i.postimg.cc/TPQzkHjX/gabeeos-dandelion-logo.png" alt="" /></p>
 
-<p>Continuing with the same philosophy of its previous versions, gabeeOSLinux now presents a new flavor: Qtile.</p>
+<p>Continuing with the same philosophy of its previous versions:"simple and aesthetically pleasing", gabeeOSLinux now presents a new flavor: Qtile.</p>
 
 <p><a href="https://sourceforge.net/projects/gabeeoslinux/">Download gabeeOSLinux Qtile</a></p>
 
