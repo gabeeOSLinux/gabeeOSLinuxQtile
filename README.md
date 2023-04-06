@@ -4,7 +4,7 @@
 
 <p><a href="https://sourceforge.net/projects/gabeeoslinux/">Download gabeeOSLinux Qtile</a></p>
 
-<p><img src="https://i.postimg.cc/593MjyQt/Desktop.png" alt="" /></p>
+<p><img src="https://i.postimg.cc/Dy75yQtS/Desktop.png" alt="" /></p>
 
 Qtile is
 <p>A full-featured, hackable tiling window manager written and configured in Python</p>
