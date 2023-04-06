@@ -6,7 +6,7 @@
 <p><strong>&nbsp;</strong></p>
 <p><img src="https://i.postimg.cc/Dy75yQtS/Desktop.png" alt="" /></p>
 <p><strong>&nbsp;</strong></p>
-Qtile is
+<p><h3>Qtile is</h3></p>
 <p><strong>&nbsp;</strong></p>
 <p>A full-featured, hackable tiling window manager written and configured in Python</p>
 <p><strong>&nbsp;</strong></p>
@@ -19,7 +19,7 @@ Qtile is
 <p><strong>&nbsp;</strong></p>
 <p><img src="https://i.postimg.cc/HnqpzPwt/Layout.png" alt="" /></p>
 <p><strong>&nbsp;</strong></p>
-Applications:
+<p><h3>Applications:</h3></p>
 
    feh arandr nitrogen dunst Thunar thunar-volman thunar-archive-plugin xfce4-settings thunar-media-tags-plugin scrot btop tint2 xarchiver viewnior kitty    neofetch ranger exa VSCode blueman tint2 rofi firefox zsh oh-my-zsh mpd ncmpcpp conky lxappearance telegram-desktop picom...
 <p><strong>&nbsp;</strong></p>   
